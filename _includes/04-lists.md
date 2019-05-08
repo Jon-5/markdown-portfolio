@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Numbers
+1. Letters
+   1. a
+   1. b
+   1. c
+  
+* :smile:
+* :dog:
